@@ -1,3 +1,3 @@
 # Rachel Kidwell readme file 
 ## this is a smaller header
-For my CS course
+This repo is for my CS160 course at COCC
