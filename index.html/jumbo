@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>FIX ME</title>
+    <title>Peter</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -57,46 +57,136 @@
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron">
-        <div class="container">
-          <h1 class="display-3">Hello, world!</h1>
-          <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      <div class="jumbotron" >
+        <div class="container" style="height: 130px;">
+          <h1 class="display-3" >Peter's Portfolio</h1>
+          <p style="font-size: 18px;">This Portfolio is for my CS160/161/1162/260 class work at COCC</p>
+          <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My Own Stuff &raquo;</a></p>
         </div>
       </div>
 
       <div class="container">
         <!-- Example row of columns -->
         <div class="row">
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+
+          <div class="col-md-2">
+            <h2>Scratch Programs</h2>
+            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Other Programs</h2>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div>
           
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <div class="col-md-2">
+            <h2>Python Programs</h2>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div>
           
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <div class="col-md-2">
+            <h2>Processing Programs</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Greenfoot Programs</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Book Q and A</h2>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div>
         </div>
-
-        <hr>
-        
-        FIXME: YOUR CONTENT GOES HERE
-
       </div> <!-- /container -->
+
+      <hr>
+
+      <div class="container">
+        <!-- Another row of columns -->
+        <div class="row">
+
+          <div class="col-md-2">
+            <h2>Degree Pathways</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Code Circuits</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>App Inventor</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>CodeHS Snaps</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Midterm Eval</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Short Reads</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+        </div>
+      </div> <!-- /container -->
+
+      <hr>
+        
+      <div class="container">
+        <!-- An another row of columns -->
+        <div class="row">
+
+          <div class="col-md-2">
+            <h2>Elements Ch 1</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Code Combat</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Tresure Hunt</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>The Final Exam</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Extra Credit</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Any Other Stuff</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+        </div>
+      </div> <!-- /container -->
+
+      <hr>
+
+      <div class="container">
+        <p>FIXME: YOUR CONTENT GOES HERE</p>
+      </div>
       
     </main>
 
     <footer class="container">
-      <p>&copy; COCC 2019-2020</p>
+      <p>&copy; COCC 2020-2021</p>
     </footer>
 
     <!-- Bootstrap core JavaScript
